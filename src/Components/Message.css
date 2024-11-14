@@ -1,0 +1,6 @@
+.messagecontent{
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
